@@ -23,14 +23,15 @@ Tim Evtechindo
   - AVR MCU
   - STM32 F1 series
 - **Hardware Development:**
-  - Schematic Design (Proteus, EasyEDA, Kicad)
-  - PCB Design (Sprint Layout, Proteus, EasyEDA, Kicad)
-  - Board assembly
+  - Schematic Design (Altium, Kicad, EasyEDA, Proteus)
+  - PCB Design (Sprint Layout, Altium, Kicad, EasyEDA, Proteus)
+  - Board assembly (Single Layer + Double Layer)
   - Board testing
 - **Simulasi Desain:**
   - Proteus
   - Wokwi
   - Tinkercad
+  - LTSpice
 - **Internet of Things:**
   - Blynk
   - Thingspeak
