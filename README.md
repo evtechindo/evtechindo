@@ -12,7 +12,7 @@ Tim Evtechindo
   
 - **Hardware Architecture Design**. Langkah yang sangat penting dalam pengembanyan proyek. Tanpa desain arsitektur yang tepat, hardware akan menjadi sangat sulit untuk dipelihara dan ditambahkan fitur dalam pengembangan selanjutnya.<br />
 - **Hardware Documentation**. Tanpa dokumentasi yang tepat, pelanggan akan membuang waktu untuk memahami dan mengikuti hardware yang dibuat.<br />
-- **Programming Language**. Kami ahli dalam menggunakan bahasa pemrograman mikrokontroller (ESP, Arduino, Atmega, dll).<br />
+- **Programming Language**. Kami ahli dalam menggunakan bahasa pemrograman mikrokontroller (ESP, Arduino, STM32, dll).<br />
   
 ### Skil Teknis
 <p align="justify">
